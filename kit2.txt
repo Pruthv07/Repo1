@@ -1,6 +1,5 @@
 Indigo
 Green
-Red
-Blue
 Violet
 Yellow
+white
