@@ -1,4 +1,5 @@
-Color
+Indigo
 Green
 Red
 Blue
+Violet
